@@ -1,9 +1,12 @@
 /* 
+Based on:
 html5doctor.com Reset Stylesheet
 v1.6.1
 Last Updated: 2010-09-17
 Author: Richard Clark - http://richclarkdesign.com 
 Twitter: @rich_clark
+
+Continuation by: Anton Pedersen
 */
 
 html, body, div, span, object, iframe,
@@ -25,6 +28,12 @@ time, mark, audio, video {
     font-size:100%;
     vertical-align:baseline;
     background:transparent;
+    box-sizing: border-box;
+}
+
+/* decrease font-size to use 1rem as 10px and so on */
+html {
+	font-size: 62.5%;
 }
 
 body {

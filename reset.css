@@ -28,7 +28,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	vertical-align: baseline;
 	background: transparent;
-	box-sizing:  border-box;
+	box-sizing: border-box;
 }
 
 /* decrease font-size to use 1rem as 10px and so on */
@@ -44,53 +44,53 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	margin-left: 0;
-  margin-right: 0;
-  font-weight: 700;
-  hyphens: manual;
+	margin-right: 0;
+	font-weight: 700;
+	hyphens: manual;
 }
 
 h1 {
-  font-size: 3.6rem;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+	font-size: 3.6rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
 }
 
 h2 {
-  font-size: 2.4rem;
-  margin-top: 1.3rem;
-  margin-bottom: 1.3rem;
+	font-size: 2.4rem;
+	margin-top: 1.3rem;
+	margin-bottom: 1.3rem;
 }
 
 h3 {
-  font-size: 1.78rem;
-  margin-top: 1.6rem;
-  margin-bottom: 1.6rem;
+	font-size: 1.78rem;
+	margin-top: 1.6rem;
+	margin-bottom: 1.6rem;
 }
 
 h4 {
-  font-size: 1.6rem;
-  margin-top: 2.1rem;
-  margin-bottom: 2.1rem;
+	font-size: 1.6rem;
+	margin-top: 2.1rem;
+	margin-bottom: 2.1rem;
 }
 
 h5 {
-  font-size: 1.3rem;
-  margin-top: 1.67rem;
-  margin-bottom: 1.67rem;
+	font-size: 1.3rem;
+	margin-top: 1.67rem;
+	margin-bottom: 1.67rem;
 }
 
 h6 {
-  font-size: 1rem;
-  margin-top: 2.6rem;
-  margin-bottom: 2.6rem;
+	font-size: 1rem;
+	margin-top: 2.6rem;
+	margin-bottom: 2.6rem;
 }
 
 p {
-  margin-bottom: 1rem;
+	margin-bottom: 1rem;
 }
 
 img{
-  max-width: 100%;
+	max-width: 100%;
 }
 
 article,aside,details,figcaption,figure,
@@ -119,9 +119,9 @@ a:focus {
 	padding: 0;
 	font-size: 100%;
 	color: black;
-  hyphens: manual;
+	hyphens: manual;
 	vertical-align: baseline;
-	text-decoration:  none;
+	text-decoration: none;
 	background: transparent;
 }
 
@@ -141,7 +141,7 @@ mark {
 }
 
 del {
-	text-decoration:  line-through;
+	text-decoration: line-through;
 }
 
 abbr[title], dfn[title] {
@@ -158,7 +158,7 @@ table {
 hr {
 	display: block;
 	height: 1px;
-	border: 0;   
+	border: 0; 
 	border-top: 1px solid #cccccc;
 	margin: 1em 0;
 	padding: 0;
